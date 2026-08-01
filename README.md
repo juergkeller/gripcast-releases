@@ -24,7 +24,7 @@ Score gemeldet wird, stellst du selbst ein, ebenso deine Fahrzeitfenster
 <img width="437" height="850" alt="image" src="https://github.com/user-attachments/assets/fdf2950d-2bde-4bff-9939-30128025b70c" />
 
 
-Die App-Oberfläche ist derzeit auf Englisch.
+Die App-Oberfläche ist derzeit nur auf Englisch.
 
 
 ## Beta-Status: was du erwarten kannst
