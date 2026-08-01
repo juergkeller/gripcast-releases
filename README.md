@@ -7,7 +7,7 @@
 
 ## Was ist GripCast?
 
-GripCast zeigt dir, ob und wann sich Biken in den nächsten drei Tagen lohnt.
+GripCast zeigt dir, ob und wann sich Mountainbiken in den nächsten drei Tagen lohnt.
 Jeder Tag ist in vier Zeitfenster geteilt (Morgen, Mittag, Nachmittag, Abend);
 jedes Fenster bekommt einen Trail Score von 0–100 und ein klares Urteil:
 **GO / MAYBE / NO**. In den Score fliessen neben der Wettervorhersage auch
@@ -45,7 +45,7 @@ Die App-Oberfläche ist derzeit auf Englisch.
 GripCast ist noch nicht im Play Store. Die Beta wird als APK-Datei
 installiert („Sideload"). Voraussetzung: **Android 7.0 oder neuer**.
 
-1. Lade die APK-Datei aus dem aktuellen Release herunter: [Link]
+1. Lade die APK-Datei aus dem aktuellen Release herunter: [Link](https://github.com/juergkeller/gripcast-releases/releases/download/v1.1.0-beta.1/GripCast-a351576a-4b34-4cfc-84df-a8e53ea23928.apk)
 2. Öffne die heruntergeladene Datei (Benachrichtigung „Download abgeschlossen"
    antippen, oder über die Dateien-App).
 3. Android fragt beim ersten Mal, ob dein Browser bzw. deine Dateien-App
