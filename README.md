@@ -84,15 +84,20 @@ Liste, nichts weggelassen:
 ## Daten & Privatsphäre
 
 **Kein Konto, keine Anmeldung, keine Werbung.** Es sind keine Werbe- oder
-Analyse-Dienste eingebaut.
+Analyse-Dienste eingebaut. Der Abschnitt hier ist die Kurzfassung; die
+vollständige Datenschutzerklärung steht in [DATENSCHUTZ.md](DATENSCHUTZ.md)
+(englische Fassung: [PRIVACY.md](PRIVACY.md)).
 
 **Mit diesen Servern spricht die App:**
 
-- **Open-Meteo** (Wetterdienst): bekommt deine Koordinaten, um Vorhersage und
-  Bodenfeuchte für deinen Standort zu liefern. Wenn du deinen Standort per
-  Ortsname setzt, läuft auch diese Suche über Open-Meteo.
-- **BigDataCloud** (Geodienst): bekommt deine Koordinaten, um daraus den
-  Ortsnamen für die Anzeige in der App zu machen (z.B. „Aarau").
+- **Open-Meteo** (Wetterdienst): bekommt deine auf rund 10 km gerundete
+  Position, um Vorhersage und Bodenfeuchte für deine Region zu liefern. Wenn
+  du deinen Standort per Ortsname setzt, läuft auch diese Suche über
+  Open-Meteo.
+- **BigDataCloud** (Geodienst): bekommt dieselbe gerundete Position, um
+  daraus den Ortsnamen für die Anzeige in der App zu machen (z.B. „Zermatt").
+  Weil nur die gerundete Position rausgeht, kann der angezeigte Name auch mal
+  ein Nachbarort sein.
 - **GripCast-Server** (Firebase, Region Zürich): verschickt die
   Benachrichtigungen. Während der Beta läuft er in der Test-Umgebung des
   Entwicklers. Was dort gespeichert wird, steht unten.
@@ -103,8 +108,8 @@ Analyse-Dienste eingebaut.
 **Was der GripCast-Server über dich speichert**: unter einer zufälligen
 Geräte-ID, ohne Bezug zu deinem Namen, Google-Konto oder deiner Telefonnummer:
 
-- deine Position **auf ~10 km gerundet** (die exakte Position verlässt für
-  die Benachrichtigungen nie dein Gerät),
+- deine Position **auf ~10 km gerundet** (die exakte Position verlässt dein
+  Gerät nie, weder Richtung Server noch Richtung Wetterdienst),
 - Zeitzone, Fahrzeitfenster und deine Benachrichtigungs-Einstellungen
   (Schwellenwert, Uhrzeit-/Temperaturformat),
 - den technischen Push-Zustellcode (Token) und den letzten
