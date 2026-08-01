@@ -1,6 +1,6 @@
 # GripCast (Beta für Android)
 
-**Aktuelle Version: 1.1.0 · 19. Juli 2026 · [Link zum APK-Download in den Releases]**
+**Aktuelle Version: 1.1.0 · 19. Juli 2026 · [Link](https://github.com/juergkeller/gripcast-releases/releases/download/v1.1.0-beta.1/GripCast-a351576a-4b34-4cfc-84df-a8e53ea23928.apk)**
 
 > Beta-Software: GripCast funktioniert, wird aber aktiv weiterentwickelt.
 > Genau dafür suchen wir Tester. Details unten unter [Feedback](#feedback).
