@@ -21,10 +21,11 @@ die Vorhersage über Nacht, kommt früh am Morgen eine Korrektur. Ab welchem
 Score gemeldet wird, stellst du selbst ein, ebenso deine Fahrzeitfenster
 (werktags/Wochenende getrennt).
 
-<img width="437" height="850" alt="image" src="https://github.com/user-attachments/assets/fdf2950d-2bde-4bff-9939-30128025b70c" />
+<img width="367" height="724" alt="image" src="https://github.com/user-attachments/assets/e591ca3e-6f54-4031-a461-55f2cb719168" />
 
 
-Die App-Oberfläche ist derzeit nur auf Englisch.
+
+Die App ist derzeit nur auf Englisch verfügbar.
 
 
 ## Beta-Status: was du erwarten kannst
