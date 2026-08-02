@@ -1,6 +1,6 @@
 # GripCast (Beta für Android)
 
-**Aktuelle Version: 1.1.0 · 19. Juli 2026 · [Link](https://github.com/juergkeller/gripcast-releases/releases/download/v1.1.0-beta.1/GripCast-a351576a-4b34-4cfc-84df-a8e53ea23928.apk)**
+**Aktuelle Version: 1.1.0 · 2. August 2026 · [Link](https://github.com/juergkeller/gripcast-releases/releases/download/v1.1.0-beta.1/GripCast-7ceced28-aab5-4968-91ad-daf13c6733ea.apk)**
 
 > Beta-Software: GripCast funktioniert, wird aber aktiv weiterentwickelt.
 > Genau dafür suchen wir Tester. Details unten unter [Feedback](#feedback).
@@ -46,7 +46,7 @@ Die App ist derzeit nur auf Englisch verfügbar.
 GripCast ist noch nicht im Play Store. Die Beta wird als APK-Datei
 installiert („Sideload"). Voraussetzung: **Android 7.0 oder neuer**.
 
-1. Lade die APK-Datei aus dem aktuellen Release herunter: [Link](https://github.com/juergkeller/gripcast-releases/releases/download/v1.1.0-beta.1/GripCast-a351576a-4b34-4cfc-84df-a8e53ea23928.apk)
+1. Lade die APK-Datei aus dem aktuellen Release herunter: [Link](https://github.com/juergkeller/gripcast-releases/releases/download/v1.1.0-beta.1/GripCast-7ceced28-aab5-4968-91ad-daf13c6733ea.apk)
 2. Öffne die heruntergeladene Datei (Benachrichtigung „Download abgeschlossen"
    antippen, oder über die Dateien-App).
 3. Android fragt beim ersten Mal, ob dein Browser bzw. deine Dateien-App
